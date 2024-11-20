@@ -15,13 +15,13 @@ You’ll get hints after each guess: **too high** or **too low**. The game track
 ## 💻 Installation & Setup
 
 ### 🛠️ Prerequisites
-To run this game, you need to have **Python 3.x** installed. If you don't have Python installed, get it from the official [Python website](https://www.python.org/downloads/).
+To run this game, you need to have **Python 3.x** installed. If you don't have Python installed, get it from the official Python website (https://www.python.org/downloads/).
 
 ### 📥 Steps to Run the Game
 
 1. **Clone the repository**:
    
-   git clone https://github.com/GiftaGrace/guess-the-number.git
+   git clone https://github.com/GiftaGrace/GuessTheNumberGame.git
 
 
 2. **Navigate into the project directory**:
